@@ -16,7 +16,8 @@ pnpm install
 ### Run
 
 ```bash
-pnpm start
+# run watch mode
+pnpm start:dev
 ```
 
 ### Test
